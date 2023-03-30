@@ -3,6 +3,7 @@
 /**
  * cap_string - Capitalizes all words of a string.
  * @str: The string to be capitalized.
+ * @index: Auto increases in the loop.
  *
  * Return: A pointer to the changed string.
  */
